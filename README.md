@@ -1,5 +1,5 @@
 - 👋 Hi, I’m yangliguo
-- 👀 I’m interested in utomation tools by vue
+- 👀 I’m interested in automation tools by vue
 - 🌱 I’m currently learning ts
 - 📫 my email 1219649500@qq.com
 
