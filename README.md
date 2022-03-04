@@ -1,4 +1,4 @@
-Hi~ I'm a junior frontEnd engineer from China
+Hi~ I'm a junior frontEnd engineer 
 
 **About me**
 
