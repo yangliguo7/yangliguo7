@@ -1,4 +1,4 @@
-Hi~ I'm a junior frontEnd engineer 
+Hi~ I"m a student who is studying the frontEnd
 
 **About me**
 
