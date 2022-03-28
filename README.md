@@ -6,8 +6,6 @@ Hi~ I"m a student who is studying the frontEnd
  
 - 🌱 I’m currently learning ts
 
-- ❤️ I love exploring new knowledge
-
 - 💬 Ask me about anything [here](https://github.com/YangLG-7/WIP/issues)
 
 **Languages and Tools:**  
