@@ -19,10 +19,10 @@ Hi~ I"m a student who is studying the frontEnd
 
 #### Top Repositories
 
-<a href="https://github.com/YangLG-7/learn_ES">
+<a href="https://github.com/yangliguo7/learn_ES">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YangLG-7&repo=learn_ES&theme=buefy" />
 </a>
-<a href="https://github.com/YangLG-7/learn_TS">
+<a href="https://github.com/yangliguo7/learn_TS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YangLG-7&repo=learn_TS&theme=buefy" />
 </a>
 
