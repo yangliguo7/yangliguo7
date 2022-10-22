@@ -1,10 +1,6 @@
-Hi~ I"m a student who is studying the frontEnd
+I"m a noob ~
 
 **About me**
-
-- 👀 I'm interested in automation tools by vue
- 
-- 🌱 I’m currently learning ts
 
 - 💬 Ask me about anything [here](https://github.com/yangliguo7/WIP/issues)
 
