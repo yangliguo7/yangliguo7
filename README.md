@@ -13,7 +13,7 @@ I"m a noob ~
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yangliguo7&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="yangliguo's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangliguo7&theme=buefy&hide_border=true&layout=compact&count_private=true" alt="Top Langs" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+<!--- #### Top Repositories
 
 <a href="https://github.com/yangliguo7/learn_ES">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yangliguo7&repo=learn_ES&theme=buefy" />
@@ -24,7 +24,7 @@ I"m a noob ~
 
 <br />
 <br />
-<!---
+
 yangliguo7/yangliguo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
