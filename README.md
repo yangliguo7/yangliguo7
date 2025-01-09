@@ -10,7 +10,7 @@ I"m a noob ~
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yangliguo7&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="yangliguo's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangliguo7&theme=buefy&hide_border=true&layout=compact&count_private=true" alt="Top Langs" /></a> |
+<!---| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yangliguo7&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="yangliguo's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangliguo7&theme=buefy&hide_border=true&layout=compact&count_private=true" alt="Top Langs" /></a> |
 | ------------- | ------------- |
 
 <!--- #### Top Repositories
